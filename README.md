@@ -1,2 +1,2 @@
-### 주식 데이터 수집
+## 주식 데이터 수집
 StockDataCollectorpy
