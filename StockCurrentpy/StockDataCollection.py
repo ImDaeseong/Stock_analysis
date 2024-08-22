@@ -12,7 +12,7 @@ class StockDataCollection:
                           'Chrome/91.0.4472.124 Safari/537.36 '
         }
 
-    def get_current_price_info(self):
+    def get_Stock_info(self):
         try:
             response = requests.get(self.base_url, headers=self.headers)
             response.raise_for_status()

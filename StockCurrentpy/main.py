@@ -25,10 +25,10 @@ if __name__ == '__main__':
     json_saver = JSONSaver()
 
     while True:
-        price_info = stock_data.get_current_price_info()
+        stock_data = stock_data.get_Stock_info()
 
-        if price_info:
-            print(price_info)
-            json_saver.save(price_info)
+        if stock_data:
+            print(stock_data)
+            json_saver.save(stock_data)
 
         time.sleep(10)
