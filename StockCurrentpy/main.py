@@ -24,11 +24,16 @@ if __name__ == '__main__':
     stock_instance = StockDataCollection(stock_code)
     json_saver = JSONSaver()
 
-    while True:
-        stock_data = stock_instance.get_Stock_info()
+    try:
+        while True:
+            stock_data = stock_instance.get_Stock_info()
 
-        if stock_data:
-            print(stock_data)
-            json_saver.save(stock_data)
+            if stock_data:
+                print(stock_data)
+                json_saver.save(stock_data)
 
-        time.sleep(10)
+            time.sleep(60)  # 60초 대기
+    except KeyboardInterrupt:
+        print("프로그램 중단")
+    finally:
+        print("프로그램 종료")
