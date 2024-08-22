@@ -21,11 +21,11 @@ if __name__ == '__main__':
         print("json 파일 읽기 실패")
         exit(1)
 
-    stock_data = StockDataCollection(stock_code)
+    stock_instance = StockDataCollection(stock_code)
     json_saver = JSONSaver()
 
     while True:
-        stock_data = stock_data.get_Stock_info()
+        stock_data = stock_instance.get_Stock_info()
 
         if stock_data:
             print(stock_data)
