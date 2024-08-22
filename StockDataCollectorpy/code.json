@@ -98,7 +98,6 @@
 {"company":"HLB제약","code":"047920"}
 {"company":"HLB테라퓨틱스","code":"115450"}
 {"company":"KB제28호스팩","code":"476470"}
-{"company":"LS마린솔루션","code":"060370"}
 {"company":"S&K폴리텍","code":"091340"}
 {"company":"SAMG엔터","code":"419530"}
 {"company":"SCL사이언스","code":"246960"}
@@ -136,7 +135,6 @@
 {"company":"리튬포어스","code":"073570"}
 {"company":"마녀공장","code":"439090"}
 {"company":"모비스","code":"250060"}
-{"company":"미코바이오메드","code":"214610"}
 {"company":"밀리의서재","code":"418470"}
 {"company":"바디텍메드","code":"206640"}
 {"company":"바른손이앤에이","code":"035620"}
@@ -182,7 +180,6 @@
 {"company":"알로이스","code":"297570"}
 {"company":"앤디포스","code":"238090"}
 {"company":"에너토크","code":"019990"}
-{"company":"에스바이오메딕스","code":"304360"}
 {"company":"에스아이리소스","code":"065420"}
 {"company":"에스에너지","code":"095910"}
 {"company":"에스엠코어","code":"007820"}
@@ -368,7 +365,6 @@
 {"company":"삼화콘덴서공업","code":"001820"}
 {"company":"샘표식품","code":"248170"}
 {"company":"서울식품공업","code":"004410"}
-{"company":"성안머티리얼스","code":"011300"}
 {"company":"수산중공업","code":"017550"}
 {"company":"신풍제약","code":"019170"}
 {"company":"씨티알모빌리티","code":"308170"}
@@ -529,6 +525,7 @@
 {"company":"에스에이티이엔지","code":"351320"}
 {"company":"에스와이스틸텍","code":"365330"}
 {"company":"에이비온","code":"203400"}
+{"company":"에이스테크","code":"088800"}
 {"company":"에이티넘인베스트","code":"021080"}
 {"company":"에이프로","code":"262260"}
 {"company":"에코앤드림","code":"101360"}
@@ -538,6 +535,7 @@
 {"company":"엔브이에이치코리아","code":"067570"}
 {"company":"엔시트론","code":"101400"}
 {"company":"엔텔스","code":"069410"}
+{"company":"엘티씨","code":"170920"}
 {"company":"엠벤처투자","code":"019590"}
 {"company":"오가닉티코스메틱","code":"900300"}
 {"company":"오스템","code":"031510"}
@@ -550,18 +548,17 @@
 {"company":"원익홀딩스","code":"030530"}
 {"company":"원티드랩","code":"376980"}
 {"company":"웹스","code":"196700"}
-{"company":"유라클","code":"088340"}
 {"company":"유비벨록스","code":"089850"}
 {"company":"유안타제10호스팩","code":"435380"}
 {"company":"유일로보틱스","code":"388720"}
 {"company":"유티아이","code":"179900"}
 {"company":"이글루","code":"067920"}
 {"company":"이노뎁","code":"303530"}
-{"company":"이노시스","code":"056090"}
 {"company":"이미지스","code":"115610"}
 {"company":"이엠넷","code":"123570"}
 {"company":"이지트로닉스","code":"377330"}
 {"company":"인바이오","code":"352940"}
+{"company":"인크레더블버즈","code":"064090"}
 {"company":"인터로조","code":"119610"}
 {"company":"인텔리안테크","code":"189300"}
 {"company":"일월지엠엘","code":"178780"}
@@ -576,6 +573,7 @@
 {"company":"청담글로벌","code":"362320"}
 {"company":"컬러레이","code":"900310"}
 {"company":"케이바이오","code":"038530"}
+{"company":"케이쓰리아이","code":"431190"}
 {"company":"케이티알파","code":"036030"}
 {"company":"케이프","code":"064820"}
 {"company":"코오롱티슈진","code":"950160"}
@@ -610,6 +608,7 @@
 {"company":"한국정보인증","code":"053300"}
 {"company":"한국테크놀로지","code":"053590"}
 {"company":"한빛레이저","code":"452190"}
+{"company":"한울반도체","code":"320000"}
 {"company":"해성산업","code":"034810"}
 {"company":"헥토파이낸셜","code":"234340"}
 {"company":"현대에이치티","code":"039010"}
@@ -627,7 +626,7 @@
 {"company":"바스칸바이오제약","code":"354390"}
 {"company":"삼미금속","code":"012210"}
 {"company":"아퓨어스","code":"149300"}
-{"company":"엔에스엠","code":"238170"}
+{"company":"엔지브이아이","code":"093510"}
 {"company":"오건에코텍","code":"212310"}
 {"company":"위월드","code":"140660"}
 {"company":"유엑스엔","code":"337840"}
@@ -642,6 +641,7 @@
 {"company":"HMM","code":"011200"}
 {"company":"HS효성","code":"487570"}
 {"company":"KC그린홀딩스","code":"009440"}
+{"company":"KC코트렐","code":"119650"}
 {"company":"KSS해운","code":"044450"}
 {"company":"LG유플러스","code":"032640"}
 {"company":"LG전자","code":"066570"}
@@ -869,16 +869,13 @@
 {"company":"영림원소프트랩","code":"060850"}
 {"company":"오디텍","code":"080520"}
 {"company":"오상자이엘","code":"053980"}
-{"company":"올리패스","code":"244460"}
 {"company":"옵투스제약","code":"131030"}
-{"company":"와이씨","code":"232140"}
 {"company":"와이엠씨","code":"155650"}
 {"company":"와이즈버즈","code":"273060"}
 {"company":"우리기술","code":"032820"}
 {"company":"우리이앤엘","code":"153490"}
 {"company":"우주일렉트로","code":"065680"}
 {"company":"원익머트리얼즈","code":"104830"}
-{"company":"웨스트라이즈","code":"064090"}
 {"company":"윙스풋","code":"335870"}
 {"company":"유비쿼스홀딩스","code":"078070"}
 {"company":"유안타제13호스팩","code":"449020"}
@@ -915,6 +912,7 @@
 {"company":"캡스톤파트너스","code":"452300"}
 {"company":"컨텍","code":"451760"}
 {"company":"컴투스","code":"078340"}
+{"company":"케스피온","code":"079190"}
 {"company":"케이씨피드","code":"025880"}
 {"company":"케이아이엔엑스","code":"093320"}
 {"company":"케이웨더","code":"068100"}
@@ -933,7 +931,6 @@
 {"company":"크리스에프앤씨","code":"110790"}
 {"company":"클리노믹스","code":"352770"}
 {"company":"키움제8호스팩","code":"446840"}
-{"company":"태성","code":"323280"}
 {"company":"테고사이언스","code":"191420"}
 {"company":"텔레칩스","code":"054450"}
 {"company":"투비소프트","code":"079970"}
@@ -1124,7 +1121,6 @@
 {"company":"교보14호스팩","code":"456490"}
 {"company":"국영지앤엠","code":"006050"}
 {"company":"국전약품","code":"307750"}
-{"company":"그린생명과학","code":"114450"}
 {"company":"까스텔바작","code":"308100"}
 {"company":"꿈비","code":"407400"}
 {"company":"나노엔텍","code":"039860"}
@@ -1166,6 +1162,7 @@
 {"company":"모헨즈","code":"006920"}
 {"company":"미래에셋벤처투자","code":"100790"}
 {"company":"미래에셋비전스팩3호","code":"448830"}
+{"company":"미코바이오메드","code":"214610"}
 {"company":"바이오솔루션","code":"086820"}
 {"company":"바이오톡스텍","code":"086040"}
 {"company":"밸로프","code":"331520"}
@@ -1221,7 +1218,6 @@
 {"company":"에스오에스랩","code":"464080"}
 {"company":"에스피소프트","code":"443670"}
 {"company":"에쎈테크","code":"043340"}
-{"company":"에이스테크","code":"088800"}
 {"company":"에치에프알","code":"230240"}
 {"company":"에코프로에이치엔","code":"383310"}
 {"company":"에프알텍","code":"073540"}
@@ -1277,6 +1273,7 @@
 {"company":"크린앤사이언스","code":"045520"}
 {"company":"클래시스","code":"214150"}
 {"company":"태광","code":"023160"}
+{"company":"태성","code":"323280"}
 {"company":"테크윙","code":"089030"}
 {"company":"티사이언티픽","code":"057680"}
 {"company":"티씨케이","code":"064760"}
@@ -1293,6 +1290,7 @@
 {"company":"폴라리스세원","code":"234100"}
 {"company":"폴라리스우노","code":"114630"}
 {"company":"퓨릿","code":"445180"}
+{"company":"플레이위드","code":"023770"}
 {"company":"피델릭스","code":"032580"}
 {"company":"피에스텍","code":"002230"}
 {"company":"피엔에이치테크","code":"239890"}
@@ -1375,6 +1373,7 @@
 {"company":"롯데관광개발","code":"032350"}
 {"company":"롯데에너지머티리얼즈","code":"020150"}
 {"company":"롯데하이마트","code":"071840"}
+{"company":"메타케어","code":"118000"}
 {"company":"모토닉","code":"009680"}
 {"company":"미래에셋글로벌리츠","code":"396690"}
 {"company":"백산","code":"035150"}
@@ -1410,6 +1409,7 @@
 {"company":"인천도시가스","code":"034590"}
 {"company":"인터지스","code":"129260"}
 {"company":"일정실업","code":"008500"}
+{"company":"전진건설로봇","code":"079900"}
 {"company":"제일파마홀딩스","code":"002620"}
 {"company":"조광피혁","code":"004700"}
 {"company":"조선선재","code":"120030"}
@@ -1634,7 +1634,6 @@
 {"company":"체리부로","code":"066360"}
 {"company":"카페24","code":"042000"}
 {"company":"캠시스","code":"050110"}
-{"company":"케스피온","code":"079190"}
 {"company":"케이엔에스","code":"432470"}
 {"company":"케이엔제이","code":"272110"}
 {"company":"케이엠","code":"083550"}
@@ -1691,7 +1690,6 @@
 {"company":"셀젠텍","code":"258250"}
 {"company":"아이케이세미콘","code":"149010"}
 {"company":"에이아이더뉴트리진","code":"311960"}
-{"company":"엔지브이아이","code":"093510"}
 {"company":"이브이파킹서비스","code":"419700"}
 {"company":"이성씨엔아이","code":"379390"}
 {"company":"제이엠멀티","code":"254160"}
@@ -1763,6 +1761,7 @@
 {"company":"서흥","code":"008490"}
 {"company":"성문전자","code":"014910"}
 {"company":"성신양회","code":"004980"}
+{"company":"성안머티리얼스","code":"011300"}
 {"company":"성창기업지주","code":"000180"}
 {"company":"세아제강지주","code":"003030"}
 {"company":"세우글로벌","code":"013000"}
@@ -1826,6 +1825,7 @@
 {"company":"DMS","code":"068790"}
 {"company":"HLB파나진","code":"046210"}
 {"company":"LB세미콘","code":"061970"}
+{"company":"LS마린솔루션","code":"060370"}
 {"company":"SDN","code":"099220"}
 {"company":"SGA","code":"049470"}
 {"company":"SM C&C","code":"048550"}
@@ -1840,6 +1840,7 @@
 {"company":"나래나노텍","code":"137080"}
 {"company":"나무가","code":"190510"}
 {"company":"나우IB","code":"293580"}
+{"company":"넥스트바이오메디컬","code":"389650"}
 {"company":"넵튠","code":"217270"}
 {"company":"노바렉스","code":"194700"}
 {"company":"노브랜드","code":"145170"}
@@ -1938,7 +1939,6 @@
 {"company":"엔지켐생명과학","code":"183490"}
 {"company":"엔피디","code":"198080"}
 {"company":"엘오티베큠","code":"083310"}
-{"company":"엘티씨","code":"170920"}
 {"company":"엠젠솔루션","code":"032790"}
 {"company":"영우디에스피","code":"143540"}
 {"company":"예스티","code":"122640"}
@@ -1952,6 +1952,7 @@
 {"company":"와토스코리아","code":"079000"}
 {"company":"우리산업","code":"215360"}
 {"company":"우수AMS","code":"066590"}
+{"company":"우정바이오","code":"215380"}
 {"company":"워트","code":"396470"}
 {"company":"원익","code":"032940"}
 {"company":"원익IPS","code":"240810"}
@@ -2012,7 +2013,6 @@
 {"company":"퓨런티어","code":"370090"}
 {"company":"플랜티넷","code":"075130"}
 {"company":"플리토","code":"300080"}
-{"company":"하나금융21호스팩","code":"406760"}
 {"company":"하나금융24호스팩","code":"430230"}
 {"company":"하림지주","code":"003380"}
 {"company":"한국가구","code":"004590"}
@@ -2098,7 +2098,6 @@
 {"company":"아모레퍼시픽그룹","code":"002790"}
 {"company":"아센디오","code":"012170"}
 {"company":"아이에스동서","code":"010780"}
-{"company":"에스메디","code":"118000"}
 {"company":"엔에이치엔","code":"181710"}
 {"company":"영원무역","code":"111770"}
 {"company":"영흥","code":"012160"}
@@ -2235,6 +2234,7 @@
 {"company":"액트로","code":"290740"}
 {"company":"어스앤에어로스페이스","code":"263540"}
 {"company":"얼라인드","code":"238120"}
+{"company":"에스바이오메딕스","code":"304360"}
 {"company":"에스비비테크","code":"389500"}
 {"company":"에스에프에이","code":"056190"}
 {"company":"에스엘에스바이오","code":"246250"}
@@ -2251,6 +2251,7 @@
 {"company":"오에스피","code":"368970"}
 {"company":"오토앤","code":"353590"}
 {"company":"오하임앤컴퍼니","code":"309930"}
+{"company":"올리패스","code":"244460"}
 {"company":"옵트론텍","code":"082210"}
 {"company":"옵티코어","code":"380540"}
 {"company":"와이바이오로직스","code":"338840"}
@@ -2258,7 +2259,6 @@
 {"company":"와이엠","code":"007530"}
 {"company":"우리기술투자","code":"041190"}
 {"company":"우리넷","code":"115440"}
-{"company":"우정바이오","code":"215380"}
 {"company":"웨이버스","code":"336060"}
 {"company":"웰크론한텍","code":"076080"}
 {"company":"위니아","code":"071460"}
@@ -2268,12 +2268,14 @@
 {"company":"위지트","code":"036090"}
 {"company":"윈스","code":"136540"}
 {"company":"윈팩","code":"097800"}
+{"company":"유라클","code":"088340"}
 {"company":"유라테크","code":"048430"}
 {"company":"유아이디","code":"069330"}
 {"company":"유안타제11호스팩","code":"444920"}
 {"company":"유안타제15호스팩","code":"473050"}
 {"company":"육일씨엔에쓰","code":"191410"}
 {"company":"이건홀딩스","code":"039020"}
+{"company":"이노시스","code":"056090"}
 {"company":"이노와이어리스","code":"073490"}
 {"company":"이트론","code":"096040"}
 {"company":"인성정보","code":"033230"}
@@ -2331,13 +2333,13 @@
 {"company":"피씨디렉트","code":"051380"}
 {"company":"필옵틱스","code":"161580"}
 {"company":"하나32호스팩","code":"475240"}
+{"company":"하나금융21호스팩","code":"406760"}
 {"company":"하이소닉","code":"106080"}
 {"company":"한국경제TV","code":"039340"}
 {"company":"한국전자금융","code":"063570"}
 {"company":"한국제14호스팩","code":"477530"}
 {"company":"한솔아이원스","code":"114810"}
 {"company":"한양이엔지","code":"045100"}
-{"company":"한울반도체","code":"320000"}
 {"company":"현대무벡스","code":"319400"}
 {"company":"현대사료","code":"016790"}
 {"company":"현대에버다임","code":"041440"}
@@ -2374,7 +2376,6 @@
 {"company":"HL D&I","code":"014790"}
 {"company":"HL홀딩스","code":"060980"}
 {"company":"HS애드","code":"035000"}
-{"company":"KC코트렐","code":"119650"}
 {"company":"KG스틸","code":"016380"}
 {"company":"KIB플러그에너지","code":"015590"}
 {"company":"KTis","code":"058860"}
@@ -2504,6 +2505,7 @@
 {"company":"교보13호스팩","code":"440790"}
 {"company":"국순당","code":"043650"}
 {"company":"국일신동","code":"060480"}
+{"company":"그린생명과학","code":"114450"}
 {"company":"글로본","code":"019660"}
 {"company":"기가비스","code":"420770"}
 {"company":"나노브릭","code":"286750"}
@@ -2607,6 +2609,7 @@
 {"company":"오이솔루션","code":"138080"}
 {"company":"오텍","code":"067170"}
 {"company":"옵티시스","code":"109080"}
+{"company":"와이씨","code":"232140"}
 {"company":"와이어블","code":"065530"}
 {"company":"와이팜","code":"332570"}
 {"company":"우리로","code":"046970"}
@@ -2675,7 +2678,6 @@
 {"company":"팬스타엔터프라이즈","code":"054300"}
 {"company":"포니링크","code":"064800"}
 {"company":"퓨처코어","code":"151910"}
-{"company":"플레이위드","code":"023770"}
 {"company":"피엠티","code":"147760"}
 {"company":"필에너지","code":"378340"}
 {"company":"핌스","code":"347770"}
@@ -2699,6 +2701,7 @@
 {"company":"대주이엔티","code":"114920"}
 {"company":"볼빅","code":"206950"}
 {"company":"에이원알폼","code":"234070"}
+{"company":"엔에스엠","code":"238170"}
 {"company":"엔에스컴퍼니","code":"224760"}
 {"company":"이비테크","code":"208850"}
 {"company":"이앤에치","code":"341310"}
