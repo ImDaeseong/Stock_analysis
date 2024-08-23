@@ -77,6 +77,6 @@ class StockDataCollection:
             all_data.extend(page_data)
 
             # 요청 사이에 2초 지연을 추가
-            time.sleep(2)
+            # time.sleep(2)
 
         return all_data
