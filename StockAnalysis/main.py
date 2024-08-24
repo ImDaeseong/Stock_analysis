@@ -19,9 +19,13 @@ def save_file(file_name, results):
 
 
 def CollectDataDB(stock_code):
-    resultsAll = StockDataCollection(stock_code).getAllPages()
 
     db = StockDatabase()
+
+    # 기존 데이터 삭제
+    db.delete_data(stock_code)
+
+    resultsAll = StockDataCollection(stock_code).getAllPages()
     db.insert_data(stock_code, resultsAll)
     db.close()
 
