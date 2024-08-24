@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime, timedelta
 
 
 class StockDataCollection:
@@ -11,6 +12,8 @@ class StockDataCollection:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
                           'Chrome/91.0.4472.124 Safari/537.36 '
         }
+        self.end_date = datetime.today()
+        self.start_date = self.end_date - timedelta(days=60)  # 최근 2개월
 
     def getTotalpages(self):
 
@@ -73,9 +76,18 @@ class StockDataCollection:
         for page in range(1, last_page + 1):
             print(f"페이지 {page} 데이터를 수집 중...")
             page_data = self.getSelectpages(page)
+
+            # 날짜 필터링
+            filtered_data = [entry for entry in page_data if
+                             self.start_date <= datetime.strptime(entry['날짜'], '%Y.%m.%d') <= self.end_date]
+
             all_data.extend(page_data)
 
             # 요청 사이에 2초 지연을 추가
             # time.sleep(2)
+
+            # 최근 2개월 데이터만 수집
+            if len(filtered_data) > 0 and datetime.strptime(filtered_data[-1]['날짜'], '%Y.%m.%d') < self.start_date:
+                break
 
         return all_data
